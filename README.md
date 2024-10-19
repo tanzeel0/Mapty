@@ -18,7 +18,7 @@
 
 ## How to Use
 
-1. Visit the [live demo link](https://tanzeel0.github.io/Mapty/) and allow location access.
+1. Visit the [live demo link](https://github.com/tanzeel0/Mapty/blob/main/Screenshot%20(46).png) and allow location access.
 2. Choose between running or cycling.
 3. Enter the distance and duration of your workout.
 4. Click on the map to set the location of your workout.
