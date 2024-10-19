@@ -28,7 +28,7 @@
 
 ## Screenshot
 
-![Mapty Screenshot](https://github.com/tanzeel0/Mapty/blob/main/Screenshot%20(46).png)
+![Mapty Screenshot](https://github.com/tanzeel0/Mapty/blob/main/Screenshot%20(47).png)
 
 ---
 
